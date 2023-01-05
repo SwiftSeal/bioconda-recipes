@@ -15,7 +15,7 @@ source:
 
 requirements:
   run:
-    - python >=2.7
+    - python >=2.7,<3.11
     - scipy
     - blast
     - diamond 
